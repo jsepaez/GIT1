@@ -4,6 +4,8 @@ if edad >= 15 and documento:
     print("Cumple los requisitos")
 else:
     print("No cumple los requisitos")
+    
+print ("Git Automatico")
 
 
 
